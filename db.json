@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook Gamer",
+      "price": "4599.90"
+    },
+    {
+      "id": 2,
+      "name": "Mouse sem Fio",
+      "price": "129.50"
+    }
+  ]
+}
